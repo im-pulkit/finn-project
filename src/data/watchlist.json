@@ -1,0 +1,10 @@
+[
+  { "ticker": "TCS.NS", "name": "Tata Consultancy Services", "sector": "IT Services", "mcap": "₹13.5L Cr" },
+  { "ticker": "HDFCBANK.NS", "name": "HDFC Bank", "sector": "Banking", "mcap": "₹12.8L Cr" },
+  { "ticker": "RELIANCE.NS", "name": "Reliance Industries", "sector": "Conglomerate", "mcap": "₹17.2L Cr" },
+  { "ticker": "TITAN.NS", "name": "Titan Company", "sector": "Consumer", "mcap": "₹2.9L Cr" },
+  { "ticker": "BAJFINANCE.NS", "name": "Bajaj Finance", "sector": "NBFC", "mcap": "₹4.8L Cr" },
+  { "ticker": "INFY.NS", "name": "Infosys", "sector": "IT Services", "mcap": "₹7.1L Cr" },
+  { "ticker": "SBIN.NS", "name": "State Bank of India", "sector": "Banking", "mcap": "₹7.2L Cr" },
+  { "ticker": "HAL.NS", "name": "Hindustan Aeronautics", "sector": "Defence", "mcap": "₹3.1L Cr" }
+]
