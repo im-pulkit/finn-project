@@ -1,4 +1,3 @@
-# Engineering & Build Notes: FINN
 
 Rough notes on how I broke down the problem, experimented, course-corrected when the models went off track, and decided on architecture tradeoffs.
 
@@ -62,3 +61,5 @@ I used LLMs (Claude & GPT) to brainstorm component structures and accelerate boi
 1. **BSE/NSE Scraper Cron**: Hook up live RSS / API polling from `bseindia.com` into the `announcements` table with automatic deduplication.
 2. **Audio/Concall Transcript Parser**: Chunk earnings call transcripts into guidance vs actuals tables to automate the "Promise vs Reality" multi-quarter tracking.
 3. **Contact Sync**: CSV / vCard import for an investor's real address book + LinkedIn export parser to map past company history automatically.
+
+Also I used AI for creative formal and structured writing of md files.
